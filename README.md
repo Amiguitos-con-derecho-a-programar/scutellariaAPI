@@ -9,5 +9,7 @@ Install dependencies npm install
 Run the project npm start
 
 ## Endpoints
+Base link: https://scutellaria-api.glitch.me
+
 - /getScores Gets all scores
 - /createUser Adds a new score
